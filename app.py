@@ -1,1 +1,1 @@
-print("This is a version test of git.")
+print("This is a second version test of git.")
